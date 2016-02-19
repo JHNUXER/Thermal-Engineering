@@ -1,4 +1,9 @@
 public enum ModObject {
   // Items:
-  itemNull
+  itemCarbonIngot,
+  
+  // Blocks:
+  blockCarbonPlating,
+  
+  // Machines:
 }
